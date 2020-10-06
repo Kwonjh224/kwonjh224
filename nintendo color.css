@@ -1,3 +1,27 @@
 .item{
     color: cornflowerblue;
 }
+.title{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+}
+.subtitle{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+}
+.img{
+    align-content: center;
+}
+* {margin : 0; padding: 0; box-sizing: border-box;}
+body {
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.main title{
+    font-size:50px;
+}
