@@ -2,11 +2,13 @@
     color: cornflowerblue;
 }
 .title{
+    font-style: italic ;
     text-align: center;
     font-size: 50px;
     font-weight: bold;
 }
 .subtitle{
+    font-style: italic ;
     text-align: center;
     font-size: 18px;
     font-weight: 100;
